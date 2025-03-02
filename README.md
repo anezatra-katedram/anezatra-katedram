@@ -3,7 +3,7 @@
   ![Banner](https://github.com/anezatra-katedram/anezatra-katedram/blob/main/page.png)
 
   <h1 align="center">𖤍 𝘈 𝘕 𝘌 𝘡 𝘈 𝘛 𝘙 𝘈 𖤓 𝘒 𝘈 𝘛 𝘌 𝘋 𝘙 𝘈 𝘔 𖤍</h1>
-  <h1 align="center">C͏Y͏B͏E͏R͏ S͏E͏C͏U͏R͏I͏T͏Y͏ E͏X͏P͏E͏R͏T͏ A͏N͏D͏ S͏E͏C͏U͏R͏I͏T͏Y͏ R͏E͏S͏E͏A͏R͏C͏H͏E͏R͏ 𓀛 𓅋</h1>
+  <h1 align="center">ᴄʏʙᴇʀ ᴤᴇᴄᴜʀɪᴛʏ ᴇxᴘᴇʀᴛ ᴀɴᴅ ᴤᴇᴄᴜʀɪᴛʏ ʀᴇᴤᴇᴀʀᴄʜᴇʀ 𓀛 𓅋</h1>
 
   [![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=0d1117&style=flat)](https://github.com/anezatra-katedram)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@anezatra_official)
